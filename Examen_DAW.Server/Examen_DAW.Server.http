@@ -1,0 +1,6 @@
+@Examen_DAW.Server_HostAddress = http://localhost:5007
+
+GET {{Examen_DAW.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

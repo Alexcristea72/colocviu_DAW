@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\alexc\\Documents\\DAW\\LAB3\\Examen_DAW\\Examen_DAW.Server\\..\\examen_daw.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
